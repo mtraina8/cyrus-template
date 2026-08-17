@@ -1,0 +1,14 @@
+{
+	"defaultRunner": "claude",
+	"claudeDefaultModel": "opus",
+	"linearWorkspaces": {},
+	"userAccessControl": {
+		"allowedUsers": [
+			{
+				"email": "{{USER_EMAIL}}"
+			}
+		],
+		"blockBehavior": "comment"
+	},
+	"repositories": []
+}
